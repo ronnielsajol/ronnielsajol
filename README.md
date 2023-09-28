@@ -10,4 +10,4 @@
 - **Vue JS**
 - **Laravel**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronnielsajol)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ronnielsajol&theme=tokyonight&hide_border=true&border_radius=50&background=45%2C0F2027%2C203A43)](https://git.io/streak-stats)
